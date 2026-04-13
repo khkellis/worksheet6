@@ -73,18 +73,6 @@ closer to the true 0.08.
 
 ---
 
-## Instructor notes
-
-- The answers notebook (`worksheet6_answers.ipynb`) contains complete code
-  and sample written responses for all questions. Keep this file out of
-  student-facing distributions.
-- `_generate.py` regenerates the dataset and both notebooks from scratch using
-  `np.random.seed(20260407)`.
-- Students are encouraged to use AI assistants (GitHub Copilot, Gemini) to
-  help write code, as per course conventions.
-
----
-
 ## Reminder
 
 AI can help you move faster, but you are still responsible for checking
